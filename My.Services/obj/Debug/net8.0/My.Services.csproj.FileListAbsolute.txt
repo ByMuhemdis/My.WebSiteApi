@@ -1,0 +1,17 @@
+C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Services\bin\Debug\net8.0\My.Services.deps.json
+C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Services\bin\Debug\net8.0\My.Services.dll
+C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Services\bin\Debug\net8.0\My.Services.pdb
+C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Services\bin\Debug\net8.0\Entities.dll
+C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Services\bin\Debug\net8.0\My.Application.dll
+C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Services\bin\Debug\net8.0\Entities.pdb
+C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Services\bin\Debug\net8.0\My.Application.pdb
+C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Services\obj\Debug\net8.0\My.Services.csproj.AssemblyReference.cache
+C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Services\obj\Debug\net8.0\My.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Services\obj\Debug\net8.0\My.Services.AssemblyInfoInputs.cache
+C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Services\obj\Debug\net8.0\My.Services.AssemblyInfo.cs
+C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Services\obj\Debug\net8.0\My.Services.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Services\obj\Debug\net8.0\My.Servi.1DEDC7F7.Up2Date
+C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Services\obj\Debug\net8.0\My.Services.dll
+C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Services\obj\Debug\net8.0\refint\My.Services.dll
+C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Services\obj\Debug\net8.0\My.Services.pdb
+C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Services\obj\Debug\net8.0\ref\My.Services.dll

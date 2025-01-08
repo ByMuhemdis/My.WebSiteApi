@@ -1,0 +1,1154 @@
+2024-12-05 11:11:46.3111 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-05 11:11:46.3277 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-05 11:11:46.3277 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-05 11:11:46.3525 Info Configuration initialized.
+2024-12-05 11:15:01.8702 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-05 11:15:01.8885 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-05 11:15:01.8885 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-05 11:15:01.9162 Info Configuration initialized.
+2024-12-05 11:22:16.8142 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-05 11:22:16.8291 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-05 11:22:16.8291 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-05 11:22:16.8479 Info Configuration initialized.
+2024-12-05 12:38:48.7769 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-05 12:38:48.8029 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-05 12:38:48.8029 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-05 12:38:48.8287 Info Configuration initialized.
+2024-12-05 12:41:25.5431 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-05 12:41:25.5617 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-05 12:41:25.5744 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-05 12:41:25.5886 Info Configuration initialized.
+2024-12-05 14:09:51.7086 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-05 14:09:51.7228 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-05 14:09:51.7228 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-05 14:09:51.7414 Info Configuration initialized.
+2024-12-05 14:10:30.0529 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-05 14:10:30.0653 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-05 14:10:30.0653 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-05 14:10:30.0838 Info Configuration initialized.
+2024-12-05 15:14:30.1546 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-05 15:14:30.1677 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-05 15:14:30.1783 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-05 15:14:30.1783 Info Configuration initialized.
+2024-12-05 15:15:03.3818 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-05 15:15:03.3995 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-05 15:15:03.3995 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-05 15:15:03.4264 Info Configuration initialized.
+2024-12-05 15:22:10.0991 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-05 15:22:10.1121 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-05 15:22:10.1304 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-05 15:22:10.1554 Info Configuration initialized.
+2024-12-05 17:05:38.9444 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-05 17:05:38.9731 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-05 17:05:38.9859 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-05 17:05:38.9965 Info Configuration initialized.
+2024-12-05 18:47:34.5337 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-05 18:47:34.5593 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-05 18:47:34.5743 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-05 18:47:34.5930 Info Configuration initialized.
+2024-12-06 14:16:07.6500 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-06 14:16:07.6809 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-06 14:16:07.6809 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-06 14:16:07.7044 Info Configuration initialized.
+2024-12-06 14:28:14.7272 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-06 14:28:14.7506 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-06 14:28:14.7672 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-06 14:28:14.7884 Info Configuration initialized.
+2024-12-09 12:13:25.1388 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 12:13:25.1827 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 12:13:25.1965 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 12:13:25.2135 Info Configuration initialized.
+2024-12-09 14:30:20.4576 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 14:30:20.4709 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 14:30:20.4791 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 14:30:20.4896 Info Configuration initialized.
+2024-12-09 14:37:39.6057 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 14:37:39.6351 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 14:37:39.6655 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 14:37:39.6933 Info Configuration initialized.
+2024-12-09 14:42:08.0901 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 14:42:08.1170 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 14:42:08.1366 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 14:42:08.1530 Info Configuration initialized.
+2024-12-09 14:45:40.7324 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 14:45:40.7448 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 14:45:40.7544 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 14:45:40.7638 Info Configuration initialized.
+2024-12-09 14:59:30.6195 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 14:59:30.6500 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 14:59:30.6830 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 14:59:30.7030 Info Configuration initialized.
+2024-12-09 15:00:45.6644 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 15:00:45.6770 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 15:00:45.6770 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 15:00:45.6998 Info Configuration initialized.
+2024-12-09 15:05:53.8782 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 15:05:53.8909 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 15:05:53.8999 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 15:05:53.9133 Info Configuration initialized.
+2024-12-09 15:06:47.0734 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 15:06:47.0898 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 15:06:47.0898 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 15:06:47.1108 Info Configuration initialized.
+2024-12-09 15:08:29.1031 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 15:08:29.1167 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 15:08:29.1167 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 15:08:29.1372 Info Configuration initialized.
+2024-12-09 15:08:57.2763 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 15:08:57.2763 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 15:08:57.3009 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 15:08:57.3151 Info Configuration initialized.
+2024-12-09 15:10:33.5423 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 15:10:33.5663 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 15:10:33.5809 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 15:10:33.6043 Info Configuration initialized.
+2024-12-09 15:11:29.3020 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 15:11:29.3343 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 15:11:29.3609 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 15:11:29.3875 Info Configuration initialized.
+2024-12-09 15:13:36.1087 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 15:13:36.1264 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 15:13:36.1383 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 15:13:36.1516 Info Configuration initialized.
+2024-12-09 15:16:55.6169 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 15:16:55.6351 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 15:16:55.6500 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 15:16:55.6897 Info Configuration initialized.
+2024-12-09 15:17:38.6516 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 15:17:38.6834 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 15:17:38.6988 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 15:17:38.7234 Info Configuration initialized.
+2024-12-09 15:18:02.4649 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 15:18:02.4872 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 15:18:02.5067 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 15:18:02.5237 Info Configuration initialized.
+2024-12-09 15:24:07.9729 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 15:24:07.9926 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 15:24:08.0084 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 15:24:08.0229 Info Configuration initialized.
+2024-12-09 15:24:45.9167 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 15:24:45.9410 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 15:24:45.9557 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 15:24:45.9764 Info Configuration initialized.
+2024-12-09 15:25:10.9200 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 15:25:10.9385 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 15:25:10.9504 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 15:25:10.9709 Info Configuration initialized.
+2024-12-09 15:26:07.8799 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 15:26:07.8965 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 15:26:07.9066 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 15:26:07.9223 Info Configuration initialized.
+2024-12-09 15:36:05.8175 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 15:36:05.8349 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 15:36:05.8490 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 15:36:05.8490 Info Configuration initialized.
+2024-12-09 15:37:47.4296 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 15:37:47.4416 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 15:37:47.4515 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 15:37:47.4685 Info Configuration initialized.
+2024-12-09 15:42:30.5308 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 15:42:30.5480 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 15:42:30.5480 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 15:42:30.5741 Info Configuration initialized.
+2024-12-09 15:48:51.7291 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 15:48:51.7461 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 15:48:51.7461 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 15:48:51.7756 Info Configuration initialized.
+2024-12-09 16:26:52.4019 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 16:26:52.4255 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 16:26:52.4436 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 16:26:52.4631 Info Configuration initialized.
+2024-12-09 16:27:58.9243 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 16:27:58.9367 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 16:27:58.9458 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 16:27:58.9458 Info Configuration initialized.
+2024-12-09 16:31:00.0622 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 16:31:00.0807 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 16:31:00.0933 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 16:31:00.1047 Info Configuration initialized.
+2024-12-09 16:31:39.6967 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 16:31:39.7201 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 16:31:39.7362 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 16:31:39.7666 Info Configuration initialized.
+2024-12-09 16:36:04.1734 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 16:36:04.1905 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 16:36:04.2023 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 16:36:04.2156 Info Configuration initialized.
+2024-12-09 16:38:57.0082 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 16:38:57.0259 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 16:38:57.0259 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 16:38:57.0475 Info Configuration initialized.
+2024-12-09 16:44:54.4576 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 16:44:54.4761 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 16:44:54.4906 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 16:44:54.5056 Info Configuration initialized.
+2024-12-09 16:45:47.9545 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 16:45:47.9663 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 16:45:47.9750 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 16:45:47.9750 Info Configuration initialized.
+2024-12-09 16:50:27.5217 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 16:50:27.5364 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 16:50:27.5364 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 16:50:27.5586 Info Configuration initialized.
+2024-12-09 16:54:46.8624 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 16:54:46.8871 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 16:54:46.9010 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 16:54:46.9184 Info Configuration initialized.
+2024-12-09 16:55:46.3403 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 16:55:46.3555 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 16:55:46.3666 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 16:55:46.3823 Info Configuration initialized.
+2024-12-09 17:15:56.8733 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 17:15:56.8926 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 17:15:56.8926 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 17:15:56.9148 Info Configuration initialized.
+2024-12-09 17:28:49.9761 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 17:28:49.9949 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 17:28:49.9949 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 17:28:50.0235 Info Configuration initialized.
+2024-12-09 17:36:28.6331 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 17:36:28.6562 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 17:36:28.6714 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 17:36:28.6911 Info Configuration initialized.
+2024-12-09 17:39:34.4774 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 17:39:34.4987 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 17:39:34.5091 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 17:39:34.5265 Info Configuration initialized.
+2024-12-09 17:41:54.8386 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 17:41:54.8548 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 17:41:54.8548 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 17:41:54.8791 Info Configuration initialized.
+2024-12-09 17:43:07.7626 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 17:43:07.7778 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 17:43:07.7778 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 17:43:07.7964 Info Configuration initialized.
+2024-12-09 17:46:50.8452 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 17:46:50.8839 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 17:46:50.9063 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 17:46:50.9283 Info Configuration initialized.
+2024-12-09 17:48:19.5879 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-09 17:48:19.6228 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-09 17:48:19.6390 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-09 17:48:19.6593 Info Configuration initialized.
+2024-12-10 14:22:30.4767 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-10 14:22:30.4950 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-10 14:22:30.5081 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-10 14:22:30.5190 Info Configuration initialized.
+2024-12-10 14:30:48.6535 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-10 14:30:48.6693 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-10 14:30:48.6832 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-10 14:30:48.7010 Info Configuration initialized.
+2024-12-10 14:39:18.9615 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-10 14:39:18.9758 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-10 14:39:18.9884 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-10 14:39:19.0038 Info Configuration initialized.
+2024-12-10 14:47:46.6470 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-10 14:47:46.6580 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-10 14:47:46.6669 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-10 14:47:46.6769 Info Configuration initialized.
+2024-12-10 14:47:53.7158 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-10 14:47:53.7695 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-10 14:47:53.7695 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-10 14:47:53.7922 Info Configuration initialized.
+2024-12-10 14:49:50.0966 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-10 14:49:50.1166 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-10 14:49:50.1309 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-10 14:49:50.1470 Info Configuration initialized.
+2024-12-12 11:49:46.9081 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-12 11:49:46.9472 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-12 11:49:46.9617 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-12 11:49:46.9617 Info Configuration initialized.
+2024-12-12 11:53:41.3899 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-12 11:53:41.4172 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-12 11:53:41.4683 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-12 11:53:41.4857 Info Configuration initialized.
+2024-12-12 11:54:25.1026 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-12 11:54:25.1175 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-12 11:54:25.1175 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-12 11:54:25.1374 Info Configuration initialized.
+2024-12-12 11:55:28.9757 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-12 11:55:28.9914 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-12 11:55:29.0010 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-12 11:55:29.0118 Info Configuration initialized.
+2024-12-12 12:06:16.4806 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-12 12:06:16.4925 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-12 12:06:16.4925 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-12 12:06:16.5130 Info Configuration initialized.
+2024-12-12 16:08:44.6553 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-12 16:08:44.6721 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-12 16:08:44.6834 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-12 16:08:44.6834 Info Configuration initialized.
+2024-12-12 16:12:15.4939 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-12 16:12:15.5309 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-12 16:12:15.5720 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-12 16:12:15.5961 Info Configuration initialized.
+2024-12-12 16:15:26.2922 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-12 16:15:26.3090 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-12 16:15:26.3235 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-12 16:15:26.3539 Info Configuration initialized.
+2024-12-12 16:19:54.8113 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-12 16:19:54.8248 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-12 16:19:54.8248 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-12 16:19:54.8481 Info Configuration initialized.
+2024-12-12 16:25:02.2249 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-12 16:25:02.2459 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-12 16:25:02.2459 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-12 16:25:02.2769 Info Configuration initialized.
+2024-12-12 16:27:01.6789 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-12 16:27:01.6903 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-12 16:27:01.6987 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-12 16:27:01.7125 Info Configuration initialized.
+2024-12-16 13:03:34.3216 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-16 13:03:34.3509 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-16 13:03:34.3509 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-16 13:03:34.3681 Info Configuration initialized.
+2024-12-16 17:48:34.1186 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-16 17:48:34.1329 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-16 17:48:34.1329 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-16 17:48:34.1329 Info Configuration initialized.
+2024-12-16 17:54:19.1546 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-16 17:54:19.1680 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-16 17:54:19.1680 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-16 17:54:19.1892 Info Configuration initialized.
+2024-12-16 18:05:18.8556 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-16 18:05:18.8694 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-16 18:05:18.8694 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-16 18:05:18.8934 Info Configuration initialized.
+2024-12-16 18:06:02.3567 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-16 18:06:02.3693 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-16 18:06:02.3693 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-16 18:06:02.3899 Info Configuration initialized.
+2024-12-17 11:33:18.1837 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-17 11:33:18.2139 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-17 11:33:18.2139 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-17 11:33:18.2337 Info Configuration initialized.
+2024-12-18 15:33:24.8406 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-18 15:33:24.8807 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-18 15:33:24.8909 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-18 15:33:24.9004 Info Configuration initialized.
+2024-12-18 15:38:42.7493 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-18 15:38:42.7702 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-18 15:38:42.8307 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-18 15:38:42.8541 Info Configuration initialized.
+2024-12-18 15:39:20.4116 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-18 15:39:20.4357 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-18 15:39:20.4512 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-18 15:39:20.4746 Info Configuration initialized.
+2024-12-19 10:56:55.5618 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-19 10:56:55.5894 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-19 10:56:55.5894 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-19 10:56:55.6146 Info Configuration initialized.
+2024-12-19 11:09:08.3870 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-19 11:09:08.4106 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-19 11:09:08.4217 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-19 11:09:08.4339 Info Configuration initialized.
+2024-12-19 11:12:59.4019 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-19 11:12:59.4160 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-19 11:12:59.4160 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-19 11:12:59.4376 Info Configuration initialized.
+2024-12-19 11:14:25.4814 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-19 11:14:25.5095 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-19 11:14:25.5257 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-19 11:14:25.5629 Info Configuration initialized.
+2024-12-19 11:29:33.9165 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-19 11:29:33.9371 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-19 11:29:33.9501 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-19 11:29:33.9601 Info Configuration initialized.
+2024-12-19 12:10:38.1058 Info AppDomain Shutting down. LogFactory closing...
+2024-12-19 12:10:38.1278 Info LogFactory has been closed.
+2024-12-20 16:20:55.6137 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-20 16:20:55.6439 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-20 16:20:55.6521 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-20 16:20:55.6521 Info Configuration initialized.
+2024-12-25 16:45:59.1073 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-25 16:45:59.1478 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-25 16:45:59.1638 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-25 16:45:59.1805 Info Configuration initialized.
+2024-12-25 18:10:47.5024 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-25 18:10:47.5199 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-25 18:10:47.5283 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-25 18:10:47.5283 Info Configuration initialized.
+2024-12-26 11:56:58.8821 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-26 11:56:58.9239 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-26 11:56:58.9361 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-26 11:56:58.9361 Info Configuration initialized.
+2024-12-26 11:57:17.4198 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-26 11:57:17.4198 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-26 11:57:17.4362 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-26 11:57:17.4362 Info Configuration initialized.
+2024-12-26 11:57:18.1695 Info AppDomain Shutting down. LogFactory closing...
+2024-12-26 11:57:18.1695 Info LogFactory has been closed.
+2024-12-26 11:57:45.9542 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-26 11:57:45.9542 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-26 11:57:45.9696 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-26 11:57:45.9696 Info Configuration initialized.
+2024-12-26 11:57:47.1670 Info AppDomain Shutting down. LogFactory closing...
+2024-12-26 11:57:47.1749 Info LogFactory has been closed.
+2024-12-26 11:59:00.8949 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-26 11:59:00.9108 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-26 11:59:00.9203 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-26 11:59:00.9203 Info Configuration initialized.
+2024-12-26 11:59:02.6256 Info AppDomain Shutting down. LogFactory closing...
+2024-12-26 11:59:02.6377 Info LogFactory has been closed.
+2024-12-26 12:08:38.2983 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-26 12:08:38.3109 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-26 12:08:38.3109 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-26 12:08:38.3321 Info Configuration initialized.
+2024-12-26 12:08:46.5817 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-26 12:08:46.5933 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-26 12:08:46.5933 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-26 12:08:46.6113 Info Configuration initialized.
+2024-12-26 12:14:09.8084 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-26 12:14:09.8204 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-26 12:14:09.8279 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-26 12:14:09.8279 Info Configuration initialized.
+2024-12-26 12:19:49.2414 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-26 12:19:49.2584 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-26 12:19:49.2705 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-26 12:19:49.2835 Info Configuration initialized.
+2024-12-26 12:20:10.4575 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-26 12:20:10.4705 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-26 12:20:10.4820 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-26 12:20:10.4820 Info Configuration initialized.
+2024-12-26 12:20:33.9250 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-26 12:20:33.9353 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-26 12:20:33.9353 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-26 12:20:33.9353 Info Configuration initialized.
+2024-12-26 12:20:35.2524 Info AppDomain Shutting down. LogFactory closing...
+2024-12-26 12:20:35.2524 Info LogFactory has been closed.
+2024-12-26 12:20:50.2312 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-26 12:20:50.2637 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-26 12:20:50.2637 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-26 12:20:50.2831 Info Configuration initialized.
+2024-12-26 12:20:51.2066 Info AppDomain Shutting down. LogFactory closing...
+2024-12-26 12:20:51.2066 Info LogFactory has been closed.
+2024-12-26 12:21:03.6371 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-26 12:21:03.6496 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-26 12:21:03.6573 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-26 12:21:03.6573 Info Configuration initialized.
+2024-12-26 12:21:04.5227 Info AppDomain Shutting down. LogFactory closing...
+2024-12-26 12:21:04.5290 Info LogFactory has been closed.
+2024-12-26 12:22:09.2314 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-26 12:22:09.2314 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-26 12:22:09.2515 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-26 12:22:09.2515 Info Configuration initialized.
+2024-12-26 12:22:10.2071 Info AppDomain Shutting down. LogFactory closing...
+2024-12-26 12:22:10.2071 Info LogFactory has been closed.
+2024-12-26 12:22:24.5146 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-26 12:22:24.5346 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-26 12:22:24.5434 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-26 12:22:24.5434 Info Configuration initialized.
+2024-12-26 12:22:31.1158 Info AppDomain Shutting down. LogFactory closing...
+2024-12-26 12:22:31.1226 Info LogFactory has been closed.
+2024-12-27 10:42:29.9918 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 10:42:30.0168 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 10:42:30.0168 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 10:42:30.0449 Info Configuration initialized.
+2024-12-27 10:43:15.5848 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 10:43:15.5967 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 10:43:15.5967 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 10:43:15.6229 Info Configuration initialized.
+2024-12-27 10:45:05.9618 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 10:45:05.9828 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 10:45:06.1721 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 10:45:06.1888 Info Configuration initialized.
+2024-12-27 10:59:28.1200 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 10:59:28.1407 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 10:59:28.1512 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 10:59:28.1627 Info Configuration initialized.
+2024-12-27 11:10:29.8508 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 11:10:29.8661 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 11:10:29.8778 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 11:10:29.8778 Info Configuration initialized.
+2024-12-27 11:10:56.7206 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 11:10:56.7328 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 11:10:56.7416 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 11:10:56.7518 Info Configuration initialized.
+2024-12-27 11:17:57.4537 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 11:17:57.4702 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 11:17:57.4702 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 11:17:57.4916 Info Configuration initialized.
+2024-12-27 11:24:18.1717 Info AppDomain Shutting down. LogFactory closing...
+2024-12-27 11:24:18.1998 Info LogFactory has been closed.
+2024-12-27 11:26:38.5484 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 11:26:38.5597 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 11:26:38.5700 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 11:26:38.5816 Info Configuration initialized.
+2024-12-27 11:30:33.3333 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 11:30:33.3333 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 11:30:33.3498 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 11:30:33.3498 Info Configuration initialized.
+2024-12-27 11:30:34.4885 Info AppDomain Shutting down. LogFactory closing...
+2024-12-27 11:30:34.4885 Info LogFactory has been closed.
+2024-12-27 11:30:54.8071 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 11:30:54.8160 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 11:30:54.8160 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 11:30:54.8296 Info Configuration initialized.
+2024-12-27 11:30:55.8512 Info AppDomain Shutting down. LogFactory closing...
+2024-12-27 11:30:55.8512 Info LogFactory has been closed.
+2024-12-27 11:31:09.2383 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 11:31:09.2552 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 11:31:09.2662 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 11:31:09.2662 Info Configuration initialized.
+2024-12-27 11:41:33.5755 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 11:41:33.5849 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 11:41:33.5849 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 11:41:33.5990 Info Configuration initialized.
+2024-12-27 11:41:34.5811 Info AppDomain Shutting down. LogFactory closing...
+2024-12-27 11:41:34.5811 Info LogFactory has been closed.
+2024-12-27 11:41:54.7025 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 11:41:54.7126 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 11:41:54.7126 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 11:41:54.7267 Info Configuration initialized.
+2024-12-27 11:41:55.6988 Info AppDomain Shutting down. LogFactory closing...
+2024-12-27 11:41:55.7064 Info LogFactory has been closed.
+2024-12-27 11:43:20.0516 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 11:43:20.0658 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 11:43:20.0658 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 11:43:20.0853 Info Configuration initialized.
+2024-12-27 11:44:22.7963 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 11:44:22.8080 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 11:44:22.8160 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 11:44:22.8160 Info Configuration initialized.
+2024-12-27 11:45:22.4582 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 11:45:22.4696 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 11:45:22.4696 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 11:45:22.4868 Info Configuration initialized.
+2024-12-27 11:52:02.3013 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 11:52:02.3142 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 11:52:02.3142 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 11:52:02.3335 Info Configuration initialized.
+2024-12-27 11:53:29.4200 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 11:53:29.4344 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 11:53:29.4451 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 11:53:29.4596 Info Configuration initialized.
+2024-12-27 12:12:58.9641 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 12:12:58.9959 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 12:12:59.0074 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 12:12:59.0336 Info Configuration initialized.
+2024-12-27 12:13:44.2669 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 12:13:44.2861 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 12:13:44.2992 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 12:13:44.3156 Info Configuration initialized.
+2024-12-27 12:14:32.5208 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 12:14:32.5332 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 12:14:32.5332 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 12:14:32.5503 Info Configuration initialized.
+2024-12-27 12:15:22.3612 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 12:15:22.3974 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 12:15:22.4188 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 12:15:22.4420 Info Configuration initialized.
+2024-12-27 12:16:01.5690 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 12:16:01.5818 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 12:16:01.5818 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 12:16:01.6029 Info Configuration initialized.
+2024-12-27 12:18:41.4918 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 12:18:41.5038 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 12:18:41.5038 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 12:18:41.5237 Info Configuration initialized.
+2024-12-27 12:34:50.6312 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 12:34:50.6436 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 12:34:50.6436 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 12:34:50.6643 Info Configuration initialized.
+2024-12-27 12:35:27.3840 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 12:35:27.4034 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 12:35:27.4154 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 12:35:27.4327 Info Configuration initialized.
+2024-12-27 12:41:26.8717 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 12:41:26.8847 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 12:41:26.8952 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 12:41:26.9085 Info Configuration initialized.
+2024-12-27 12:55:36.3530 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 12:55:36.3687 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 12:55:36.3849 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 12:55:36.4156 Info Configuration initialized.
+2024-12-27 12:57:34.1096 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 12:57:34.1224 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 12:57:34.1338 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 12:57:34.1512 Info Configuration initialized.
+2024-12-27 12:58:34.2864 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 12:58:34.2999 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 12:58:34.3156 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 12:58:34.3345 Info Configuration initialized.
+2024-12-27 12:59:29.3657 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 12:59:29.3765 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 12:59:29.3765 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 12:59:29.3911 Info Configuration initialized.
+2024-12-27 12:59:30.5754 Info AppDomain Shutting down. LogFactory closing...
+2024-12-27 12:59:30.5820 Info LogFactory has been closed.
+2024-12-27 12:59:39.2381 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 12:59:39.2514 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 12:59:39.2514 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 12:59:39.2661 Info Configuration initialized.
+2024-12-27 12:59:40.6169 Info AppDomain Shutting down. LogFactory closing...
+2024-12-27 12:59:40.6279 Info LogFactory has been closed.
+2024-12-27 13:01:16.1317 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 13:01:16.1475 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 13:01:16.1475 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 13:01:16.1646 Info Configuration initialized.
+2024-12-27 13:05:06.6817 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 13:05:06.6931 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 13:05:06.6931 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 13:05:06.7343 Info Configuration initialized.
+2024-12-27 13:05:58.4127 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 13:05:58.4450 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 13:05:58.4582 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 13:05:58.4751 Info Configuration initialized.
+2024-12-27 13:09:11.5044 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 13:09:11.5155 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 13:09:11.5247 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 13:09:11.5376 Info Configuration initialized.
+2024-12-27 13:57:23.4865 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 13:57:23.5063 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 13:57:23.5228 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 13:57:23.5398 Info Configuration initialized.
+2024-12-27 13:58:45.1288 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 13:58:45.1288 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 13:58:45.1461 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 13:58:45.1461 Info Configuration initialized.
+2024-12-27 13:58:46.2276 Info AppDomain Shutting down. LogFactory closing...
+2024-12-27 13:58:46.2276 Info LogFactory has been closed.
+2024-12-27 13:58:54.2308 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 13:58:54.2401 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 13:58:54.2401 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 13:58:54.2534 Info Configuration initialized.
+2024-12-27 13:58:55.6213 Info AppDomain Shutting down. LogFactory closing...
+2024-12-27 13:58:55.6300 Info LogFactory has been closed.
+2024-12-27 13:59:04.2726 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 13:59:04.2890 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 13:59:04.2996 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 13:59:04.3150 Info Configuration initialized.
+2024-12-27 14:00:03.8808 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 14:00:03.8958 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 14:00:03.9069 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 14:00:03.9069 Info Configuration initialized.
+2024-12-27 14:01:17.7866 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 14:01:17.8045 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 14:01:17.8182 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 14:01:17.8316 Info Configuration initialized.
+2024-12-27 14:11:33.5948 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 14:11:33.6142 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 14:11:33.6464 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 14:11:33.6659 Info Configuration initialized.
+2024-12-27 14:12:18.0093 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 14:12:18.0209 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 14:12:18.0209 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 14:12:18.0397 Info Configuration initialized.
+2024-12-27 14:24:04.8497 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 14:24:04.8645 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 14:24:04.8838 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 14:24:04.8968 Info Configuration initialized.
+2024-12-27 14:30:38.8468 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 14:30:38.8599 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 14:30:38.8599 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 14:30:38.8866 Info Configuration initialized.
+2024-12-27 14:45:18.5857 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 14:45:18.6098 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 14:45:18.6269 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 14:45:18.6553 Info Configuration initialized.
+2024-12-27 14:55:12.4258 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 14:55:12.4461 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 14:55:12.4578 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 14:55:12.4741 Info Configuration initialized.
+2024-12-27 14:55:13.8682 Info AppDomain Shutting down. LogFactory closing...
+2024-12-27 14:55:13.8682 Info LogFactory has been closed.
+2024-12-27 14:55:47.1266 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 14:55:47.1266 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 14:55:47.1422 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 14:55:47.1422 Info Configuration initialized.
+2024-12-27 14:55:48.5239 Info AppDomain Shutting down. LogFactory closing...
+2024-12-27 14:55:48.5328 Info LogFactory has been closed.
+2024-12-27 14:56:01.8167 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 14:56:01.8167 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 14:56:01.8322 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 14:56:01.8322 Info Configuration initialized.
+2024-12-27 14:56:02.7792 Info AppDomain Shutting down. LogFactory closing...
+2024-12-27 14:56:02.7856 Info LogFactory has been closed.
+2024-12-27 14:57:29.2763 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 14:57:29.2874 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 14:57:29.2874 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 14:57:29.3047 Info Configuration initialized.
+2024-12-27 14:57:30.2427 Info AppDomain Shutting down. LogFactory closing...
+2024-12-27 14:57:30.2427 Info LogFactory has been closed.
+2024-12-27 14:58:49.7038 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 14:58:49.7170 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 14:58:49.7541 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 14:58:49.7693 Info Configuration initialized.
+2024-12-27 14:59:43.5726 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 14:59:43.5855 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 14:59:43.6496 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 14:59:43.6784 Info Configuration initialized.
+2024-12-27 15:00:06.8255 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:00:06.8488 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:00:06.8719 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:00:06.8892 Info Configuration initialized.
+2024-12-27 15:00:47.8588 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:00:47.8730 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:00:47.8832 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:00:47.8928 Info Configuration initialized.
+2024-12-27 15:01:10.6459 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:01:10.6585 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:01:10.6585 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:01:10.6779 Info Configuration initialized.
+2024-12-27 15:01:43.9572 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:01:43.9740 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:01:43.9856 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:01:43.9856 Info Configuration initialized.
+2024-12-27 15:02:10.6488 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:02:10.6821 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:02:10.7175 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:02:10.7433 Info Configuration initialized.
+2024-12-27 15:02:44.5798 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:02:44.6007 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:02:44.6143 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:02:44.6325 Info Configuration initialized.
+2024-12-27 15:03:25.6931 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:03:25.7115 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:03:25.7248 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:03:25.7362 Info Configuration initialized.
+2024-12-27 15:05:01.9023 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:05:01.9136 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:05:01.9230 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:05:01.9230 Info Configuration initialized.
+2024-12-27 15:05:36.1136 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:05:36.1261 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:05:36.1261 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:05:36.1476 Info Configuration initialized.
+2024-12-27 15:07:48.0862 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:07:48.0993 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:07:48.0993 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:07:48.1200 Info Configuration initialized.
+2024-12-27 15:09:16.4237 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:09:16.4384 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:09:16.4384 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:09:16.4619 Info Configuration initialized.
+2024-12-27 15:14:58.1488 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:14:58.1647 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:14:58.1759 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:14:58.1759 Info Configuration initialized.
+2024-12-27 15:17:08.6803 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:17:08.6958 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:17:08.7065 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:17:08.7065 Info Configuration initialized.
+2024-12-27 15:18:09.4448 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:18:09.4598 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:18:09.4784 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:18:09.4979 Info Configuration initialized.
+2024-12-27 15:18:30.2079 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:18:30.2268 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:18:30.2394 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:18:30.2547 Info Configuration initialized.
+2024-12-27 15:19:28.6079 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:19:28.6251 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:19:28.6387 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:19:28.6545 Info Configuration initialized.
+2024-12-27 15:31:01.0552 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:31:01.0699 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:31:01.0792 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:31:01.0943 Info Configuration initialized.
+2024-12-27 15:31:26.6630 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:31:26.6851 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:31:26.7204 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:31:26.7363 Info Configuration initialized.
+2024-12-27 15:31:32.8986 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:31:32.9258 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:31:32.9380 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:31:32.9815 Info Configuration initialized.
+2024-12-27 15:33:20.1615 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:33:20.1843 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:33:20.2018 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:33:20.2276 Info Configuration initialized.
+2024-12-27 15:37:44.6789 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:37:44.6926 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:37:44.6926 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:37:44.6926 Info Configuration initialized.
+2024-12-27 15:38:56.8739 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:38:56.8887 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:38:56.9014 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:38:56.9133 Info Configuration initialized.
+2024-12-27 15:39:19.3292 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:39:19.3453 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:39:19.3453 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:39:19.3666 Info Configuration initialized.
+2024-12-27 15:40:01.2177 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:40:01.2365 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:40:01.2501 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:40:01.2647 Info Configuration initialized.
+2024-12-27 15:40:28.6097 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:40:28.6267 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:40:28.6267 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:40:28.6510 Info Configuration initialized.
+2024-12-27 15:40:41.2538 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:40:41.2662 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:40:41.2751 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:40:41.2751 Info Configuration initialized.
+2024-12-27 15:41:00.0934 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:41:00.1112 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:41:00.1237 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:41:00.1388 Info Configuration initialized.
+2024-12-27 15:41:17.8086 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:41:17.8243 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:41:17.8341 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:41:17.8341 Info Configuration initialized.
+2024-12-27 15:41:43.9522 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:41:43.9697 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:41:43.9697 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:41:43.9941 Info Configuration initialized.
+2024-12-27 15:42:00.8028 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:42:00.8171 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:42:00.8306 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:42:00.8457 Info Configuration initialized.
+2024-12-27 15:42:33.0323 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:42:33.0556 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:42:33.0703 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:42:33.0902 Info Configuration initialized.
+2024-12-27 15:42:56.6490 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:42:56.6672 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:42:56.6672 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:42:56.6935 Info Configuration initialized.
+2024-12-27 15:43:18.2630 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:43:18.2740 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:43:18.2825 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:43:18.2920 Info Configuration initialized.
+2024-12-27 15:44:37.4642 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:44:37.4812 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:44:37.4919 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:44:37.5026 Info Configuration initialized.
+2024-12-27 15:47:33.8978 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:47:33.9105 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:47:33.9250 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:47:33.9483 Info Configuration initialized.
+2024-12-27 15:47:53.0264 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:47:53.0460 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:47:53.0586 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:47:53.0728 Info Configuration initialized.
+2024-12-27 15:48:12.7241 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:48:12.7485 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:48:12.7648 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:48:12.7879 Info Configuration initialized.
+2024-12-27 15:54:12.4775 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:54:12.4992 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:54:12.5235 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:54:12.5481 Info Configuration initialized.
+2024-12-27 15:54:59.4010 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:54:59.4263 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:54:59.4492 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:54:59.4688 Info Configuration initialized.
+2024-12-27 15:55:24.9702 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:55:24.9827 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:55:24.9922 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:55:25.0031 Info Configuration initialized.
+2024-12-27 15:55:52.1848 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:55:52.1986 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:55:52.2079 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:55:52.2193 Info Configuration initialized.
+2024-12-27 15:58:11.3960 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:58:11.4113 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:58:11.4113 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:58:11.4376 Info Configuration initialized.
+2024-12-27 15:59:22.7407 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 15:59:22.7595 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 15:59:22.7751 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 15:59:22.7967 Info Configuration initialized.
+2024-12-27 16:06:35.2546 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 16:06:35.2729 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 16:06:35.2857 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 16:06:35.3047 Info Configuration initialized.
+2024-12-27 16:09:10.6034 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 16:09:10.6295 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 16:09:10.6435 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 16:09:10.6609 Info Configuration initialized.
+2024-12-27 16:10:14.4019 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 16:10:14.4355 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 16:10:14.4451 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 16:10:14.4689 Info Configuration initialized.
+2024-12-27 16:12:22.0395 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 16:12:22.0395 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 16:12:22.0649 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 16:12:22.0784 Info Configuration initialized.
+2024-12-27 16:13:13.5936 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 16:13:13.6139 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 16:13:13.6139 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 16:13:13.6422 Info Configuration initialized.
+2024-12-27 16:15:46.2397 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 16:15:46.2530 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 16:15:46.2530 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 16:15:46.2753 Info Configuration initialized.
+2024-12-27 16:23:26.8398 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 16:23:26.8570 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 16:23:26.8710 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 16:23:26.8869 Info Configuration initialized.
+2024-12-27 16:37:04.6428 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 16:37:04.6573 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 16:37:04.6977 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 16:37:04.7082 Info Configuration initialized.
+2024-12-27 16:44:30.6508 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 16:44:30.6651 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 16:44:30.6776 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 16:44:30.6910 Info Configuration initialized.
+2024-12-27 16:45:38.8205 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 16:45:38.8404 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 16:45:38.8580 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 16:45:38.8749 Info Configuration initialized.
+2024-12-27 16:55:25.7579 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 16:55:25.7760 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 16:55:25.7760 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 16:55:25.7998 Info Configuration initialized.
+2024-12-27 17:35:19.2703 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 17:35:19.2888 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 17:35:19.2888 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 17:35:19.3247 Info Configuration initialized.
+2024-12-27 17:47:19.2985 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 17:47:19.3214 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 17:47:19.3351 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 17:47:19.3560 Info Configuration initialized.
+2024-12-27 17:54:34.1626 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 17:54:34.1626 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 17:54:34.1800 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 17:54:34.1800 Info Configuration initialized.
+2024-12-27 17:54:34.8464 Info AppDomain Shutting down. LogFactory closing...
+2024-12-27 17:54:34.8536 Info LogFactory has been closed.
+2024-12-27 17:54:43.4589 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 17:54:43.4589 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 17:54:43.4751 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 17:54:43.4751 Info Configuration initialized.
+2024-12-27 17:54:44.5858 Info AppDomain Shutting down. LogFactory closing...
+2024-12-27 17:54:44.5858 Info LogFactory has been closed.
+2024-12-27 17:55:00.6577 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 17:55:00.6681 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 17:55:00.6681 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 17:55:00.6824 Info Configuration initialized.
+2024-12-27 17:55:03.6024 Info AppDomain Shutting down. LogFactory closing...
+2024-12-27 17:55:03.6024 Info LogFactory has been closed.
+2024-12-27 17:55:35.6942 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 17:55:35.7086 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 17:55:35.7086 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 17:55:35.7299 Info Configuration initialized.
+2024-12-27 18:00:21.0193 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 18:00:21.0453 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 18:00:21.0654 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 18:00:21.0896 Info Configuration initialized.
+2024-12-27 18:06:17.7737 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-27 18:06:17.7881 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-27 18:06:17.7994 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-27 18:06:17.8142 Info Configuration initialized.
+2024-12-30 09:49:39.2414 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-30 09:49:39.2606 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-30 09:49:39.2733 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-30 09:49:39.2865 Info Configuration initialized.
+2024-12-30 15:22:45.7459 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-30 15:22:45.7807 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-30 15:22:45.7926 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-30 15:22:45.8056 Info Configuration initialized.
+2024-12-30 15:23:51.2954 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-30 15:23:51.3085 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-30 15:23:51.3183 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-30 15:23:51.3306 Info Configuration initialized.
+2024-12-30 15:25:01.4605 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-30 15:25:01.4871 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-30 15:25:01.5055 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-30 15:25:01.5265 Info Configuration initialized.
+2024-12-30 15:25:33.6042 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-30 15:25:33.6260 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-30 15:25:33.6416 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-30 15:25:33.6594 Info Configuration initialized.
+2024-12-30 15:27:08.3636 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-30 15:27:08.3857 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-30 15:27:08.4042 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-30 15:27:08.4233 Info Configuration initialized.
+2024-12-30 15:28:18.8358 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-30 15:28:18.8490 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-30 15:28:18.8490 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-30 15:28:18.8693 Info Configuration initialized.
+2024-12-30 15:31:58.0429 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-30 15:31:58.0582 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-30 15:31:58.0702 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-30 15:31:58.0836 Info Configuration initialized.
+2024-12-30 15:34:30.7151 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-30 15:34:30.7422 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-30 15:34:30.7744 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-30 15:34:30.7927 Info Configuration initialized.
+2024-12-30 15:35:18.6541 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-30 15:35:18.6655 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-30 15:35:18.6734 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-30 15:35:18.6734 Info Configuration initialized.
+2024-12-30 15:40:44.2571 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-30 15:40:44.2702 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-30 15:40:44.2702 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-30 15:40:44.2918 Info Configuration initialized.
+2024-12-30 15:41:36.1419 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-30 15:41:36.1535 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-30 15:41:36.1630 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-30 15:41:36.1630 Info Configuration initialized.
+2024-12-30 15:42:36.1699 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-30 15:42:36.1829 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-30 15:42:36.1948 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-30 15:42:36.2055 Info Configuration initialized.
+2024-12-30 15:49:35.7171 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-30 15:49:35.7295 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-30 15:49:35.7375 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-30 15:49:35.7375 Info Configuration initialized.
+2024-12-30 15:50:42.4160 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-30 15:50:42.4302 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-30 15:50:42.4408 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-30 15:50:42.4408 Info Configuration initialized.
+2024-12-30 15:51:54.5501 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-30 15:51:54.5707 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-30 15:51:54.5845 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-30 15:51:54.6048 Info Configuration initialized.
+2024-12-30 15:53:24.2303 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-30 15:53:24.2506 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-30 15:53:24.2607 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-30 15:53:24.2723 Info Configuration initialized.
+2024-12-31 12:40:00.2609 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-31 12:40:00.2962 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-31 12:40:00.3041 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-31 12:40:00.3194 Info Configuration initialized.
+2024-12-31 12:50:42.4769 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-31 12:50:42.4964 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-31 12:50:42.5145 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-31 12:50:42.5306 Info Configuration initialized.
+2024-12-31 12:58:47.0044 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-31 12:58:47.0302 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-31 12:58:47.0483 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-31 12:58:47.0620 Info Configuration initialized.
+2024-12-31 13:09:10.3639 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-31 13:09:10.3785 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-31 13:09:10.3785 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-31 13:09:10.4012 Info Configuration initialized.
+2024-12-31 13:21:16.2875 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-31 13:21:16.3040 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-31 13:21:16.3153 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-31 13:21:16.3153 Info Configuration initialized.
+2024-12-31 14:47:45.4275 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-31 14:47:45.4481 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-31 14:47:45.4481 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-31 14:47:45.4829 Info Configuration initialized.
+2024-12-31 14:51:38.1283 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-31 14:51:38.1385 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-31 14:51:38.1385 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-31 14:51:38.1530 Info Configuration initialized.
+2024-12-31 14:51:38.9501 Info AppDomain Shutting down. LogFactory closing...
+2024-12-31 14:51:38.9501 Info LogFactory has been closed.
+2024-12-31 14:51:46.1407 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-31 14:51:46.1407 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-31 14:51:46.1562 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-31 14:51:46.1562 Info Configuration initialized.
+2024-12-31 14:51:47.3631 Info AppDomain Shutting down. LogFactory closing...
+2024-12-31 14:51:47.3631 Info LogFactory has been closed.
+2024-12-31 14:52:03.7784 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-31 14:52:03.7784 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-31 14:52:03.7937 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-31 14:52:03.7937 Info Configuration initialized.
+2024-12-31 14:52:04.9180 Info AppDomain Shutting down. LogFactory closing...
+2024-12-31 14:52:04.9180 Info LogFactory has been closed.
+2024-12-31 14:52:34.3299 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-31 14:52:34.3478 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-31 14:52:34.3478 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-31 14:52:34.3703 Info Configuration initialized.
+2024-12-31 15:00:05.5454 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-31 15:00:05.5454 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-31 15:00:05.5606 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-31 15:00:05.5606 Info Configuration initialized.
+2024-12-31 15:00:06.5864 Info AppDomain Shutting down. LogFactory closing...
+2024-12-31 15:00:06.5930 Info LogFactory has been closed.
+2024-12-31 15:00:12.6056 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-31 15:00:12.6056 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-31 15:00:12.6213 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-31 15:00:12.6213 Info Configuration initialized.
+2024-12-31 15:00:13.6783 Info AppDomain Shutting down. LogFactory closing...
+2024-12-31 15:00:13.6849 Info LogFactory has been closed.
+2024-12-31 15:01:07.1569 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-31 15:01:07.1696 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-31 15:01:07.1795 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-31 15:01:07.1795 Info Configuration initialized.
+2024-12-31 16:11:13.2884 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-31 16:11:13.3026 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-31 16:11:13.3164 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-31 16:11:13.3164 Info Configuration initialized.
+2024-12-31 16:44:12.0526 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-31 16:44:12.0526 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-31 16:44:12.0526 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-31 16:44:12.0811 Info Configuration initialized.
+2024-12-31 16:44:13.3741 Info AppDomain Shutting down. LogFactory closing...
+2024-12-31 16:44:13.3806 Info LogFactory has been closed.
+2024-12-31 16:44:30.3906 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-31 16:44:30.3999 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-31 16:44:30.3999 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-31 16:44:30.4133 Info Configuration initialized.
+2024-12-31 16:44:31.8784 Info AppDomain Shutting down. LogFactory closing...
+2024-12-31 16:44:31.8867 Info LogFactory has been closed.
+2024-12-31 16:46:31.4804 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-31 16:46:31.4893 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-31 16:46:31.4893 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-31 16:46:31.5029 Info Configuration initialized.
+2024-12-31 16:46:32.5182 Info AppDomain Shutting down. LogFactory closing...
+2024-12-31 16:46:32.5248 Info LogFactory has been closed.
+2024-12-31 16:46:37.7793 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-31 16:46:37.7883 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-31 16:46:37.7883 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2024-12-31 16:46:37.8019 Info Configuration initialized.
+2024-12-31 16:46:39.2304 Info AppDomain Shutting down. LogFactory closing...
+2024-12-31 16:46:39.2383 Info LogFactory has been closed.
+2025-01-02 11:09:36.3685 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-01-02 11:09:36.3991 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-02 11:09:36.4111 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2025-01-02 11:09:36.4222 Info Configuration initialized.
+2025-01-02 12:53:35.4378 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-01-02 12:53:35.4686 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-02 12:53:35.4811 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2025-01-02 12:53:35.4950 Info Configuration initialized.
+2025-01-02 13:09:33.3493 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-01-02 13:09:33.3627 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-02 13:09:33.3722 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2025-01-02 13:09:33.3722 Info Configuration initialized.
+2025-01-02 15:21:12.9960 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-01-02 15:21:13.0156 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-02 15:21:13.0284 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2025-01-02 15:21:13.0442 Info Configuration initialized.
+2025-01-02 17:36:43.7523 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-01-02 17:36:43.7761 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-02 17:36:43.7944 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2025-01-02 17:36:43.8157 Info Configuration initialized.
+2025-01-02 17:38:06.0366 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-01-02 17:38:06.0594 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-02 17:38:06.0819 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2025-01-02 17:38:06.1144 Info Configuration initialized.
+2025-01-02 17:42:27.8748 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-01-02 17:42:27.8970 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-02 17:42:27.9251 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2025-01-02 17:42:27.9649 Info Configuration initialized.
+2025-01-02 17:49:22.4200 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-01-02 17:49:22.4433 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-02 17:49:22.4433 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2025-01-02 17:49:22.4736 Info Configuration initialized.
+2025-01-02 17:53:23.7273 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-01-02 17:53:23.7455 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-02 17:53:23.7455 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2025-01-02 17:53:23.7717 Info Configuration initialized.
+2025-01-02 18:04:33.1859 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-01-02 18:04:33.2010 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-02 18:04:33.2132 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2025-01-02 18:04:33.2263 Info Configuration initialized.
+2025-01-03 15:38:20.9575 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-01-03 15:38:20.9748 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-03 15:38:20.9882 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2025-01-03 15:38:21.0031 Info Configuration initialized.
+2025-01-03 15:38:57.4091 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-01-03 15:38:57.4196 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-03 15:38:57.4196 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2025-01-03 15:38:57.4338 Info Configuration initialized.
+2025-01-03 15:38:58.1579 Info AppDomain Shutting down. LogFactory closing...
+2025-01-03 15:38:58.1664 Info LogFactory has been closed.
+2025-01-03 15:39:08.0097 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-01-03 15:39:08.0097 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-03 15:39:08.0271 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2025-01-03 15:39:08.0271 Info Configuration initialized.
+2025-01-03 15:39:09.3420 Info AppDomain Shutting down. LogFactory closing...
+2025-01-03 15:39:09.3420 Info LogFactory has been closed.
+2025-01-03 15:39:19.5524 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-01-03 15:39:19.5620 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-03 15:39:19.5620 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\nlog.config
+2025-01-03 15:39:19.5761 Info Configuration initialized.
+2025-01-03 15:39:20.9345 Info AppDomain Shutting down. LogFactory closing...
+2025-01-03 15:39:20.9345 Info LogFactory has been closed.

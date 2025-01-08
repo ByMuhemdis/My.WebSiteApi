@@ -1,0 +1,132 @@
+2024-12-31 12:40:00.3368 INFO Application started.
+2024-12-31 12:41:27.2075 ERROR The user entered the password incorrectly. 
+2024-12-31 12:41:27.2251 DEBUG user :  obayrak logged in today at time :31.12.2024 12:41:27 
+2024-12-31 12:42:00.4495 ERROR The user entered the password incorrectly. 
+2024-12-31 12:42:00.4495 DEBUG user :  obayrak logged in today at time :31.12.2024 12:42:00 
+2024-12-31 12:43:44.8775 ERROR The user entered the password incorrectly. 
+2024-12-31 12:43:55.9268 ERROR The user entered the password incorrectly. 
+2024-12-31 12:44:00.8309 DEBUG user :  obayrak logged in today at time :31.12.2024 12:44:00 
+2024-12-31 12:44:33.7193 ERROR The user entered the password incorrectly. 
+2024-12-31 12:44:34.8586 DEBUG user :  obayrak logged in today at time :31.12.2024 12:44:34 
+2024-12-31 12:50:42.5429 INFO Application started.
+2024-12-31 12:52:33.6201 INFO user is added
+2024-12-31 12:53:40.0322 ERROR The user entered the password incorrectly. 
+2024-12-31 12:54:55.9323 ERROR The user entered the password incorrectly. 
+2024-12-31 12:55:10.9702 ERROR The user entered the password incorrectly. 
+2024-12-31 12:55:50.6585 ERROR The user entered the password incorrectly. 
+2024-12-31 12:58:47.0735 INFO Application started.
+2024-12-31 13:09:10.4119 INFO Application started.
+2024-12-31 13:21:16.3409 INFO Application started.
+2024-12-31 13:40:01.2198 ERROR Something went wrong : System.InvalidOperationException: Role ADMIN does not exist.
+   at Microsoft.AspNetCore.Identity.EntityFrameworkCore.UserStore`9.AddToRoleAsync(TUser user, String normalizedRoleName, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Identity.UserManager`1.AddToRolesAsync(TUser user, IEnumerable`1 roles)
+   at My.Services.ServicesManager.User.UserManager.AddUserAsync(UserDto userDto) in C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Services\ServicesManager\User\UserManager.cs:line 45
+   at WebSiteApi.Controllers.UserController.CreateUser(UserDto userDto) in C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\Controllers\UserController.cs:line 36
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Marvin.Cache.Headers.HttpCacheHeadersMiddleware.HandleResponse(HttpContext httpContext)
+   at Marvin.Cache.Headers.HttpCacheHeadersMiddleware.Invoke(HttpContext httpContext, IValidatorValueInvalidator validatorValueInvalidator)
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at AspNetCoreRateLimit.RateLimitMiddleware`1.Invoke(HttpContext context) in C:\Users\User\Documents\Github\AspNetCoreRateLimit\src\AspNetCoreRateLimit\Middleware\RateLimitMiddleware.cs:line 123
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-12-31 13:41:32.0867 INFO user is added
+2024-12-31 13:41:59.9814 INFO user is added
+2024-12-31 13:44:27.1983 ERROR Something went wrong : System.InvalidOperationException: Role ADMIN does not exist.
+   at Microsoft.AspNetCore.Identity.EntityFrameworkCore.UserStore`9.AddToRoleAsync(TUser user, String normalizedRoleName, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Identity.UserManager`1.AddToRolesAsync(TUser user, IEnumerable`1 roles)
+   at My.Services.ServicesManager.User.UserManager.AddUserAsync(UserDto userDto) in C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Services\ServicesManager\User\UserManager.cs:line 45
+   at WebSiteApi.Controllers.UserController.CreateUser(UserDto userDto) in C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\Controllers\UserController.cs:line 36
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Marvin.Cache.Headers.HttpCacheHeadersMiddleware.HandleResponse(HttpContext httpContext)
+   at Marvin.Cache.Headers.HttpCacheHeadersMiddleware.Invoke(HttpContext httpContext, IValidatorValueInvalidator validatorValueInvalidator)
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at AspNetCoreRateLimit.RateLimitMiddleware`1.Invoke(HttpContext context) in C:\Users\User\Documents\Github\AspNetCoreRateLimit\src\AspNetCoreRateLimit\Middleware\RateLimitMiddleware.cs:line 123
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-12-31 14:47:45.5078 INFO Application started.
+2024-12-31 14:51:38.1530 INFO Application started.
+2024-12-31 14:51:46.1562 INFO Application started.
+2024-12-31 14:52:03.7937 INFO Application started.
+2024-12-31 14:52:34.3814 INFO Application started.
+2024-12-31 15:00:05.5606 INFO Application started.
+2024-12-31 15:00:12.6213 INFO Application started.
+2024-12-31 15:01:07.2000 INFO Application started.
+2024-12-31 15:02:30.6705 INFO user is added
+2024-12-31 15:03:40.8132 DEBUG user :  OBayrak logged in today at time :31.12.2024 15:03:40 
+2024-12-31 15:04:00.0623 ERROR Something went wrong : System.NullReferenceException: Object reference not set to an instance of an object.
+   at My.Services.ServicesManager.User.LoginManager.GetClaims() in C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Services\ServicesManager\User\LoginManager.cs:line 85
+   at My.Services.ServicesManager.User.LoginManager.CreateToken() in C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Services\ServicesManager\User\LoginManager.cs:line 40
+   at WebSiteApi.Controllers.LoginController.Login(LoginDto loginDto) in C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\Controllers\LoginController.cs:line 33
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Marvin.Cache.Headers.HttpCacheHeadersMiddleware.HandleResponse(HttpContext httpContext)
+   at Marvin.Cache.Headers.HttpCacheHeadersMiddleware.Invoke(HttpContext httpContext, IValidatorValueInvalidator validatorValueInvalidator)
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at AspNetCoreRateLimit.RateLimitMiddleware`1.Invoke(HttpContext context) in C:\Users\User\Documents\Github\AspNetCoreRateLimit\src\AspNetCoreRateLimit\Middleware\RateLimitMiddleware.cs:line 123
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-12-31 15:08:11.2305 DEBUG user :  OBayrak logged in today at time :31.12.2024 15:08:11 
+2024-12-31 15:08:59.8351 DEBUG user :  OBayrak logged in today at time :31.12.2024 15:08:59 
+2024-12-31 15:09:43.5686 ERROR Something went wrong : System.ArgumentNullException: Value cannot be null. (Parameter 'email')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.ArgumentNullException.ThrowIfNull(Object argument, String paramName)
+   at Microsoft.AspNetCore.Shared.ArgumentNullThrowHelper.ThrowIfNull(Object argument, String paramName)
+   at Microsoft.AspNetCore.Identity.UserManager`1.FindByEmailAsync(String email)
+   at My.Services.ServicesManager.User.LoginManager.LoginUser(LoginDto loginDto)
+   at WebSiteApi.Controllers.LoginController.Login(LoginDto loginDto) in C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\Controllers\LoginController.cs:line 29
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Marvin.Cache.Headers.HttpCacheHeadersMiddleware.HandleResponse(HttpContext httpContext)
+   at Marvin.Cache.Headers.HttpCacheHeadersMiddleware.Invoke(HttpContext httpContext, IValidatorValueInvalidator validatorValueInvalidator)
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at AspNetCoreRateLimit.RateLimitMiddleware`1.Invoke(HttpContext context) in C:\Users\User\Documents\Github\AspNetCoreRateLimit\src\AspNetCoreRateLimit\Middleware\RateLimitMiddleware.cs:line 123
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2024-12-31 16:11:13.3407 INFO Application started.
+2024-12-31 16:12:48.5902 DEBUG user :  OBayrak logged in today at time :31.12.2024 16:12:48 
+2024-12-31 16:44:12.0864 INFO Application started.
+2024-12-31 16:44:30.4133 INFO Application started.
+2024-12-31 16:46:31.5029 INFO Application started.
+2024-12-31 16:46:37.8019 INFO Application started.
