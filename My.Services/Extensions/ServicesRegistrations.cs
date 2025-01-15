@@ -16,8 +16,9 @@ using My.Services.ServicesManager;
 using My.Services.Iservices.IContact;
 using My.Services.ServicesManager.Contact;
 
-namespace My.Persistence.Extensions
+namespace My.Services.Extensions
 {
+
     public static class ServicesRegistrations
     {
 

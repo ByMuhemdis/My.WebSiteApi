@@ -2,15 +2,15 @@
 using Entities.Search;
 using Entities.Sort;
 using My.Application.IRepositories.Skills;
-using My.Persistence.Context;
-using My.Persistence.Extensions.SkilRepositoyExtension;
+using My.Application.Context;
+using My.Application.Extensions.SkilRepositoyExtension;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace My.Persistence.Repositories.Skills
+namespace My.Application.Repositories.Skills
 {
     public class SkillReadRepository : ReadRepository<Skill>, ISkillReadRepository
     {

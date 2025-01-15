@@ -4,7 +4,7 @@
 
 #pragma warning disable CA1814 // Prefer jagged arrays over multidimensional
 
-namespace My.Persistence.Migrations
+namespace My.Application.Migrations
 {
     /// <inheritdoc />
     public partial class UpdateRolesTable : Migration

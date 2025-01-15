@@ -13,3 +13,4 @@ C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Application\obj\Debug\net8.0\My.Ap
 C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Application\obj\Debug\net8.0\refint\My.Application.dll
 C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Application\obj\Debug\net8.0\My.Application.pdb
 C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Application\obj\Debug\net8.0\ref\My.Application.dll
+C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Application\obj\Debug\net8.0\My.Application.sourcelink.json

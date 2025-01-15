@@ -5,11 +5,11 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using My.Persistence.Context;
+using My.Application.Context;
 
 #nullable disable
 
-namespace My.Persistence.Migrations
+namespace My.Application.Migrations
 {
     [DbContext(typeof(AppDbContext))]
     [Migration("20241227083034_TableUpdate")]

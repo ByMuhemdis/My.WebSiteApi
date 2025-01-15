@@ -170,3 +170,4 @@ C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\obj\Debug\net8.0\WebSiteAp
 C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\obj\Debug\net8.0\ref\WebSiteApi.dll
 C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\bin\Debug\net8.0\SendGrid.dll
 C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\bin\Debug\net8.0\StarkbankEcdsa.dll
+C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\WebSiteApi\obj\Debug\net8.0\WebSiteApi.sourcelink.json

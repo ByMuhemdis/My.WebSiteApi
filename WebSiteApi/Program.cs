@@ -3,8 +3,9 @@ using AspNetCoreRateLimit;
 using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using My.Persistence.Context;
-using My.Persistence.Extensions;
+using My.Application.Context;
+using My.Application.Extensions;
+using My.Services.Extensions;
 using My.Services.Iservices;
 using NLog;
 using System.Runtime.InteropServices;
@@ -60,7 +61,6 @@ namespace WebSiteApi
             builder.Services.ConfigureServices();
             //Mappingprifile Ioc kaydý
             builder.Services.AutoMapperDTOService();
-            builder.Services.AddAutoMapper(typeof(Program));
             //Loglama iþlemi 
             builder.Logging.ClearProviders();
             builder.Logging.AddConsole();

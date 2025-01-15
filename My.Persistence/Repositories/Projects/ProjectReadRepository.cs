@@ -2,14 +2,14 @@
 using Entities.Pagination;
 using Microsoft.EntityFrameworkCore;
 using My.Application.IRepositories.Projects;
-using My.Persistence.Context;
+using My.Application.Context;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace My.Persistence.Repositories.Projects
+namespace My.Application.Repositories.Projects
 {
     public class ProjectReadRepository : ReadRepository<Project>, IProjectReadRepository
     {

@@ -15,3 +15,4 @@ C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Services\obj\Debug\net8.0\My.Servi
 C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Services\obj\Debug\net8.0\refint\My.Services.dll
 C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Services\obj\Debug\net8.0\My.Services.pdb
 C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Services\obj\Debug\net8.0\ref\My.Services.dll
+C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Services\obj\Debug\net8.0\My.Services.sourcelink.json

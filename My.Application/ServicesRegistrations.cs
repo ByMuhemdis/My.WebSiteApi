@@ -12,7 +12,7 @@ using My.Application.IRepositories;
 using AutoMapper;
 using System.Reflection;
 
-namespace My.Persistence.Extensions
+namespace My.Application.Extensions
 {
     public static class ServicesRegistrations
     {

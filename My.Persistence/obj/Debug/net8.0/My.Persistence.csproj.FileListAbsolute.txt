@@ -19,3 +19,4 @@ C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Persistence\obj\Debug\net8.0\refin
 C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Persistence\obj\Debug\net8.0\My.Persistence.pdb
 C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Persistence\obj\Debug\net8.0\My.Persistence.genruntimeconfig.cache
 C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Persistence\obj\Debug\net8.0\ref\My.Persistence.dll
+C:\Users\Ömer\Desktop\MyWebSite\MyWebSite\My.Persistence\obj\Debug\net8.0\My.Persistence.sourcelink.json

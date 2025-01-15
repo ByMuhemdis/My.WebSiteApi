@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Identity.Client;
 using My.Application.DTOs.Skill;
 using My.Application.IRepositories;
-using My.Persistence.Context;
+using My.Application.Context;
 using My.Services.Iservices;
 
 

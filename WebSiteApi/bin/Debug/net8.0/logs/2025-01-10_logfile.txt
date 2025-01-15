@@ -1,0 +1,7 @@
+2025-01-10 15:29:27.1182 INFO Application started.
+2025-01-10 15:30:01.5498 INFO user is added
+2025-01-10 15:30:26.4450 INFO user is added
+2025-01-10 16:50:27.9343 INFO Application started.
+2025-01-10 16:50:41.5705 INFO Application started.
+2025-01-10 16:51:14.0340 DEBUG user :  obayrak logged in today at time :10.01.2025 16:51:13 
+2025-01-10 16:52:36.9892 INFO user is added

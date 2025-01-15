@@ -3,18 +3,18 @@ using My.Application.IRepositories.Abouts;
 using My.Application.IRepositories.Contacts;
 using My.Application.IRepositories.Projects;
 using My.Application.IRepositories.Skills;
-using My.Persistence.Context;
-using My.Persistence.Repositories.Abouts;
-using My.Persistence.Repositories.Contacts;
-using My.Persistence.Repositories.Projects;
-using My.Persistence.Repositories.Skills;
+using My.Application.Context;
+using My.Application.Repositories.Abouts;
+using My.Application.Repositories.Contacts;
+using My.Application.Repositories.Projects;
+using My.Application.Repositories.Skills;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace My.Persistence.Repositories
+namespace My.Application.Repositories
 {
     public class RepositoryManager : IRepositoryManager
     {
