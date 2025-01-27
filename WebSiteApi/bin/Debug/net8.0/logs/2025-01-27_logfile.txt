@@ -1,0 +1,2 @@
+2025-01-27 16:00:57.6745 INFO Application started.
+2025-01-27 16:01:08.8837 INFO {"ModelName":"OnActionExecuting","Controller":"About","Action":"GetAllAbout","Id":null,"CreatAdd":"2025-01-27T13:01:08.874914Z"}

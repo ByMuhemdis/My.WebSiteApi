@@ -16,7 +16,7 @@ namespace Entities.Sort
         {
             var orderPrams = orderByQueryString.Trim().Split(',');//querystring ifadesi alındı.
 
-            var propertyInfos = typeof(Skill).GetProperties(BindingFlags.Public | BindingFlags.Instance);//nesne üzerinden propery (örn suan skill de çalıştıgımıza göre skill içindeki id,title gibi bilgileri almak )
+            var propertyInfos = typeof(T).GetProperties(BindingFlags.Public | BindingFlags.Instance);//nesne üzerinden propery (örn suan skill de çalıştıgımıza göre skill içindeki id,title gibi bilgileri almak )
 
             var orderquerybuilder = new StringBuilder();
 

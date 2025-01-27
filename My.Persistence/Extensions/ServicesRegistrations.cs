@@ -1,6 +1,6 @@
 ﻿ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using My.Application.Context;
+
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -8,13 +8,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using My.Application.IRepositories;
-using My.Application.Repositories;
+using My.Persistence.Repositories;
 using My.Application.IRepositories.Abouts;
-using My.Application.Repositories.Abouts;
+using My.Persistence.Repositories.Abouts;
 using My.Application.IRepositories.Contacts;
-using My.Application.Repositories.Contacts;
+using My.Persistence.Repositories.Contacts;
+using My.Persistence.Context;
 
-namespace My.Application.Extensions
+
+namespace My.Persistence.Extensions
 {
     public static class ServicesRegistrations
     {

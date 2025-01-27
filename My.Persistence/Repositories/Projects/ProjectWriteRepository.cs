@@ -1,13 +1,13 @@
 ﻿using Entities.Models;
 using My.Application.IRepositories.Projects;
-using My.Application.Context;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using My.Persistence.Context;
 
-namespace My.Application.Repositories.Projects
+namespace My.Persistence.Repositories.Projects
 {
     public class ProjectWriteRepository : WriteRepository<Project>, IProjectWriteRepository
     {

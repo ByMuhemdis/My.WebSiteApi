@@ -5,8 +5,6 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using My.Application.DTOs.About;
 using My.Application.IRepositories;
-using My.Application.Context;
-using My.Application.Repositories.Abouts;
 using My.Services.Iservices;
 using My.Services.Iservices.IAbout;
 using System.Diagnostics.Eventing.Reader;

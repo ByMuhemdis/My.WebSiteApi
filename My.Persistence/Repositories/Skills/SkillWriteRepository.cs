@@ -1,13 +1,13 @@
 ﻿using Entities.Models;
 using My.Application.IRepositories.Skills;
-using My.Application.Context;
+using My.Persistence.Context;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace My.Application.Repositories.Skills
+namespace My.Persistence.Repositories.Skills
 {
     public class SkillWriteRepository : WriteRepository<Skill>, ISkillWriteRepository
     {

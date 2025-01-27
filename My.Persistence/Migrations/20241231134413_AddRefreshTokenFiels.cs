@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #pragma warning disable CA1814 // Prefer jagged arrays over multidimensional
 
-namespace My.Application.Migrations
+namespace My.Persistence.Migrations
 {
     /// <inheritdoc />
     public partial class AddRefreshTokenFiels : Migration

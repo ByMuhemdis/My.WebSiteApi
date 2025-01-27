@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using System.Linq.Dynamic.Core;
 using Entities.Sort;
 
-namespace My.Application.Extensions.SkilRepositoyExtension
+namespace My.Persistence.Extensions.SkilRepositoyExtension
 {
     public static class SkillRepositoryExcentions
     {

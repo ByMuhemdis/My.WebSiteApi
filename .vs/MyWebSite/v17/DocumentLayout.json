@@ -1,7 +1,184 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{942E89B1-E629-49A5-9032-8803BAA5E6A7}|WebSiteApi\\WebSiteApi.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\websiteapi\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942E89B1-E629-49A5-9032-8803BAA5E6A7}|WebSiteApi\\WebSiteApi.csproj|solutionrelative:websiteapi\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942E89B1-E629-49A5-9032-8803BAA5E6A7}|WebSiteApi\\WebSiteApi.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\websiteapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942E89B1-E629-49A5-9032-8803BAA5E6A7}|WebSiteApi\\WebSiteApi.csproj|solutionrelative:websiteapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942E89B1-E629-49A5-9032-8803BAA5E6A7}|WebSiteApi\\WebSiteApi.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\websiteapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942E89B1-E629-49A5-9032-8803BAA5E6A7}|WebSiteApi\\WebSiteApi.csproj|solutionrelative:websiteapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942E89B1-E629-49A5-9032-8803BAA5E6A7}|WebSiteApi\\WebSiteApi.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\websiteapi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942E89B1-E629-49A5-9032-8803BAA5E6A7}|WebSiteApi\\WebSiteApi.csproj|solutionrelative:websiteapi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942E89B1-E629-49A5-9032-8803BAA5E6A7}|WebSiteApi\\WebSiteApi.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\websiteapi\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942E89B1-E629-49A5-9032-8803BAA5E6A7}|WebSiteApi\\WebSiteApi.csproj|solutionrelative:websiteapi\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\repositories\\skills\\skillwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\repositories\\skills\\skillwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942E89B1-E629-49A5-9032-8803BAA5E6A7}|WebSiteApi\\WebSiteApi.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\websiteapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942E89B1-E629-49A5-9032-8803BAA5E6A7}|WebSiteApi\\WebSiteApi.csproj|solutionrelative:websiteapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942E89B1-E629-49A5-9032-8803BAA5E6A7}|WebSiteApi\\WebSiteApi.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\websiteapi\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942E89B1-E629-49A5-9032-8803BAA5E6A7}|WebSiteApi\\WebSiteApi.csproj|solutionrelative:websiteapi\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942E89B1-E629-49A5-9032-8803BAA5E6A7}|WebSiteApi\\WebSiteApi.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\websiteapi\\extensions\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942E89B1-E629-49A5-9032-8803BAA5E6A7}|WebSiteApi\\WebSiteApi.csproj|solutionrelative:websiteapi\\extensions\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\repositories\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\repositories\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\extensions\\skilrepositoyextension\\skillrepositoryexcentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\extensions\\skilrepositoyextension\\skillrepositoryexcentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\extensions\\servicesregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\extensions\\servicesregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\migrations\\20241231134632_addrefreshtokendatatimeupdate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\migrations\\20241231134632_addrefreshtokendatatimeupdate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\migrations\\20241231134413_addrefreshtokenfiels.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\migrations\\20241231134413_addrefreshtokenfiels.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\migrations\\20241231120006_updaterolestable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\migrations\\20241231120006_updaterolestable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\migrations\\20241231115147_addandupdaterolestable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\migrations\\20241231115147_addandupdaterolestable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\migrations\\20241227105846_deneme2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\migrations\\20241227105846_deneme2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\migrations\\20241227095930_deneme.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\migrations\\20241227095930_deneme.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\migrations\\20241227084134_refreshtablespaces.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\migrations\\20241227084134_refreshtablespaces.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\migrations\\20241227083034_tableupdate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\migrations\\20241227083034_tableupdate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\migrations\\20241226092210_addandcreatingidentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\migrations\\20241226092210_addandcreatingidentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\migrations\\20241227115602_addidentityrole.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\migrations\\20241227115602_addidentityrole.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\repositories\\abouts\\aboutreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\repositories\\abouts\\aboutreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\repositories\\abouts\\aboutwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\repositories\\abouts\\aboutwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\repositories\\contacts\\contactreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\repositories\\contacts\\contactreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\repositories\\contacts\\contactwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\repositories\\contacts\\contactwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\repositories\\projects\\projectreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\repositories\\projects\\projectreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\repositories\\projects\\projectwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\repositories\\projects\\projectwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\repositories\\skills\\skillreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\repositories\\skills\\skillreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\migrations\\20241231134632_addrefreshtokendatatimeupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\migrations\\20241231134632_addrefreshtokendatatimeupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\migrations\\20241231134413_addrefreshtokenfiels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\migrations\\20241231134413_addrefreshtokenfiels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\migrations\\20241231120006_updaterolestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\migrations\\20241231120006_updaterolestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\migrations\\20241231115147_addandupdaterolestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\migrations\\20241231115147_addandupdaterolestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\migrations\\20241227145444_refreashtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\migrations\\20241227145444_refreashtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\migrations\\20241227115602_addidentityrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\migrations\\20241227115602_addidentityrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\migrations\\20241227105846_deneme2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\migrations\\20241227105846_deneme2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\migrations\\20241227095930_deneme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\migrations\\20241227095930_deneme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\migrations\\20241227084134_refreshtablespaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\migrations\\20241227084134_refreshtablespaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\migrations\\20241227083034_tableupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\migrations\\20241227083034_tableupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\migrations\\20241226092210_addandcreatingidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\migrations\\20241226092210_addandcreatingidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|c:\\users\\\u00F6mer\\desktop\\mywebsite\\mywebsite\\my.persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0A9396-E714-48B1-8A43-C034AE65C173}|My.Persistence\\My.Persistence.csproj|solutionrelative:my.persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +186,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +195,578 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\WebSiteApi\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "WebSiteApi\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\WebSiteApi\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "WebSiteApi\\Controllers\\ProjectController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:00:37.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\WebSiteApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebSiteApi\\Program.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\WebSiteApi\\Program.cs",
+              "RelativeToolTip": "WebSiteApi\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAwDgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:00:22.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\WebSiteApi\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "WebSiteApi\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\WebSiteApi\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "WebSiteApi\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:00:16.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\WebSiteApi\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "WebSiteApi\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\WebSiteApi\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "WebSiteApi\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:00:09.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\WebSiteApi\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "WebSiteApi\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\WebSiteApi\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "WebSiteApi\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:00:02.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\WebSiteApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebSiteApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\WebSiteApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebSiteApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:59:54.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SkillController.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\WebSiteApi\\Controllers\\SkillController.cs",
+              "RelativeDocumentMoniker": "WebSiteApi\\Controllers\\SkillController.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\WebSiteApi\\Controllers\\SkillController.cs",
+              "RelativeToolTip": "WebSiteApi\\Controllers\\SkillController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:59:46.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceRegistrations.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\WebSiteApi\\Extensions\\ServiceRegistrations.cs",
+              "RelativeDocumentMoniker": "WebSiteApi\\Extensions\\ServiceRegistrations.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\WebSiteApi\\Extensions\\ServiceRegistrations.cs",
+              "RelativeToolTip": "WebSiteApi\\Extensions\\ServiceRegistrations.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAMwE0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:59:31.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241231134632_AddRefreshTokenDatatimeupdate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241231134632_AddRefreshTokenDatatimeupdate.Designer.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Migrations\\20241231134632_AddRefreshTokenDatatimeupdate.Designer.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241231134632_AddRefreshTokenDatatimeupdate.Designer.cs",
+              "RelativeToolTip": "My.Persistence\\Migrations\\20241231134632_AddRefreshTokenDatatimeupdate.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:54:32.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241231134413_AddRefreshTokenFiels.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241231134413_AddRefreshTokenFiels.Designer.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Migrations\\20241231134413_AddRefreshTokenFiels.Designer.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241231134413_AddRefreshTokenFiels.Designer.cs",
+              "RelativeToolTip": "My.Persistence\\Migrations\\20241231134413_AddRefreshTokenFiels.Designer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAIAwwAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:54:12.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241231120006_UpdateRolesTable.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241231120006_UpdateRolesTable.Designer.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Migrations\\20241231120006_UpdateRolesTable.Designer.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241231120006_UpdateRolesTable.Designer.cs",
+              "RelativeToolTip": "My.Persistence\\Migrations\\20241231120006_UpdateRolesTable.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:53:56.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241231115147_AddAndUpdateRolesTable.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241231115147_AddAndUpdateRolesTable.Designer.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Migrations\\20241231115147_AddAndUpdateRolesTable.Designer.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241231115147_AddAndUpdateRolesTable.Designer.cs",
+              "RelativeToolTip": "My.Persistence\\Migrations\\20241231115147_AddAndUpdateRolesTable.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:53:45.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241227105846_deneme2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241227105846_deneme2.Designer.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Migrations\\20241227105846_deneme2.Designer.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241227105846_deneme2.Designer.cs",
+              "RelativeToolTip": "My.Persistence\\Migrations\\20241227105846_deneme2.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:53:32.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241227095930_deneme.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241227095930_deneme.Designer.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Migrations\\20241227095930_deneme.Designer.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241227095930_deneme.Designer.cs",
+              "RelativeToolTip": "My.Persistence\\Migrations\\20241227095930_deneme.Designer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:53:14.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241227084134_RefreshTablesPaces.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241227084134_RefreshTablesPaces.Designer.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Migrations\\20241227084134_RefreshTablesPaces.Designer.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241227084134_RefreshTablesPaces.Designer.cs",
+              "RelativeToolTip": "My.Persistence\\Migrations\\20241227084134_RefreshTablesPaces.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:53:00.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241227083034_TableUpdate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241227083034_TableUpdate.Designer.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Migrations\\20241227083034_TableUpdate.Designer.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241227083034_TableUpdate.Designer.cs",
+              "RelativeToolTip": "My.Persistence\\Migrations\\20241227083034_TableUpdate.Designer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:52:48.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241226092210_AddAndCreatingIdentity.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241226092210_AddAndCreatingIdentity.Designer.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Migrations\\20241226092210_AddAndCreatingIdentity.Designer.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241226092210_AddAndCreatingIdentity.Designer.cs",
+              "RelativeToolTip": "My.Persistence\\Migrations\\20241226092210_AddAndCreatingIdentity.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:52:31.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241227115602_AddIdentityRole.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241227115602_AddIdentityRole.Designer.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Migrations\\20241227115602_AddIdentityRole.Designer.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241227115602_AddIdentityRole.Designer.cs",
+              "RelativeToolTip": "My.Persistence\\Migrations\\20241227115602_AddIdentityRole.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:51:17.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Repositories\\WriteRepository.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Repositories\\WriteRepository.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Repositories\\WriteRepository.cs",
+              "RelativeToolTip": "My.Persistence\\Repositories\\WriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:47:24.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Repositories\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Repositories\\RepositoryManager.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Repositories\\RepositoryManager.cs",
+              "RelativeToolTip": "My.Persistence\\Repositories\\RepositoryManager.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAADIAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:47:17.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Repositories\\ReadRepository.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Repositories\\ReadRepository.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Repositories\\ReadRepository.cs",
+              "RelativeToolTip": "My.Persistence\\Repositories\\ReadRepository.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAcwA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:47:09.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SkillWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Repositories\\Skills\\SkillWriteRepository.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Repositories\\Skills\\SkillWriteRepository.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Repositories\\Skills\\SkillWriteRepository.cs",
+              "RelativeToolTip": "My.Persistence\\Repositories\\Skills\\SkillWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:47:00.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SkillReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Repositories\\Skills\\SkillReadRepository.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Repositories\\Skills\\SkillReadRepository.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Repositories\\Skills\\SkillReadRepository.cs",
+              "RelativeToolTip": "My.Persistence\\Repositories\\Skills\\SkillReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:46:52.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProjectWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Repositories\\Projects\\ProjectWriteRepository.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Repositories\\Projects\\ProjectWriteRepository.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Repositories\\Projects\\ProjectWriteRepository.cs",
+              "RelativeToolTip": "My.Persistence\\Repositories\\Projects\\ProjectWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:46:43.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProjectReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Repositories\\Projects\\ProjectReadRepository.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Repositories\\Projects\\ProjectReadRepository.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Repositories\\Projects\\ProjectReadRepository.cs",
+              "RelativeToolTip": "My.Persistence\\Repositories\\Projects\\ProjectReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:46:36.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ContactWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Repositories\\Contacts\\ContactWriteRepository.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Repositories\\Contacts\\ContactWriteRepository.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Repositories\\Contacts\\ContactWriteRepository.cs",
+              "RelativeToolTip": "My.Persistence\\Repositories\\Contacts\\ContactWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:41:07.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ContactReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Repositories\\Contacts\\ContactReadRepository.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Repositories\\Contacts\\ContactReadRepository.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Repositories\\Contacts\\ContactReadRepository.cs",
+              "RelativeToolTip": "My.Persistence\\Repositories\\Contacts\\ContactReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:40:58.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AboutWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Repositories\\Abouts\\AboutWriteRepository.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Repositories\\Abouts\\AboutWriteRepository.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Repositories\\Abouts\\AboutWriteRepository.cs",
+              "RelativeToolTip": "My.Persistence\\Repositories\\Abouts\\AboutWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:40:52.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AboutReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Repositories\\Abouts\\AboutReadRepository.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Repositories\\Abouts\\AboutReadRepository.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Repositories\\Abouts\\AboutReadRepository.cs",
+              "RelativeToolTip": "My.Persistence\\Repositories\\Abouts\\AboutReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:40:32.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "My.Persistence\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:40:05.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20241231134632_AddRefreshTokenDatatimeupdate.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241231134632_AddRefreshTokenDatatimeupdate.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Migrations\\20241231134632_AddRefreshTokenDatatimeupdate.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241231134632_AddRefreshTokenDatatimeupdate.cs",
+              "RelativeToolTip": "My.Persistence\\Migrations\\20241231134632_AddRefreshTokenDatatimeupdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:39:52.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241231134413_AddRefreshTokenFiels.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241231134413_AddRefreshTokenFiels.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Migrations\\20241231134413_AddRefreshTokenFiels.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241231134413_AddRefreshTokenFiels.cs",
+              "RelativeToolTip": "My.Persistence\\Migrations\\20241231134413_AddRefreshTokenFiels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:39:45.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20241231120006_UpdateRolesTable.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241231120006_UpdateRolesTable.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Migrations\\20241231120006_UpdateRolesTable.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241231120006_UpdateRolesTable.cs",
+              "RelativeToolTip": "My.Persistence\\Migrations\\20241231120006_UpdateRolesTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:39:37.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20241231115147_AddAndUpdateRolesTable.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241231115147_AddAndUpdateRolesTable.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Migrations\\20241231115147_AddAndUpdateRolesTable.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241231115147_AddAndUpdateRolesTable.cs",
+              "RelativeToolTip": "My.Persistence\\Migrations\\20241231115147_AddAndUpdateRolesTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:39:29.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20241227145444_refreashTables.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241227145444_refreashTables.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Migrations\\20241227145444_refreashTables.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241227145444_refreashTables.cs",
+              "RelativeToolTip": "My.Persistence\\Migrations\\20241227145444_refreashTables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:39:23.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20241227115602_AddIdentityRole.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241227115602_AddIdentityRole.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Migrations\\20241227115602_AddIdentityRole.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241227115602_AddIdentityRole.cs",
+              "RelativeToolTip": "My.Persistence\\Migrations\\20241227115602_AddIdentityRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:39:10.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20241227105846_deneme2.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241227105846_deneme2.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Migrations\\20241227105846_deneme2.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241227105846_deneme2.cs",
+              "RelativeToolTip": "My.Persistence\\Migrations\\20241227105846_deneme2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:39:02.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20241227095930_deneme.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241227095930_deneme.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Migrations\\20241227095930_deneme.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241227095930_deneme.cs",
+              "RelativeToolTip": "My.Persistence\\Migrations\\20241227095930_deneme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:38:54.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20241227084134_RefreshTablesPaces.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241227084134_RefreshTablesPaces.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Migrations\\20241227084134_RefreshTablesPaces.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241227084134_RefreshTablesPaces.cs",
+              "RelativeToolTip": "My.Persistence\\Migrations\\20241227084134_RefreshTablesPaces.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:38:46.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20241226092210_AddAndCreatingIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241226092210_AddAndCreatingIdentity.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Migrations\\20241226092210_AddAndCreatingIdentity.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241226092210_AddAndCreatingIdentity.cs",
+              "RelativeToolTip": "My.Persistence\\Migrations\\20241226092210_AddAndCreatingIdentity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:37:35.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20241227083034_TableUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241227083034_TableUpdate.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Migrations\\20241227083034_TableUpdate.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Migrations\\20241227083034_TableUpdate.cs",
+              "RelativeToolTip": "My.Persistence\\Migrations\\20241227083034_TableUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:37:27.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServicesRegistrations.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Extensions\\ServicesRegistrations.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Extensions\\ServicesRegistrations.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Extensions\\ServicesRegistrations.cs",
+              "RelativeToolTip": "My.Persistence\\Extensions\\ServicesRegistrations.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:35:32.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SkillRepositoryExcentions.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Extensions\\SkilRepositoyExtension\\SkillRepositoryExcentions.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Extensions\\SkilRepositoyExtension\\SkillRepositoryExcentions.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Extensions\\SkilRepositoyExtension\\SkillRepositoryExcentions.cs",
+              "RelativeToolTip": "My.Persistence\\Extensions\\SkilRepositoyExtension\\SkillRepositoryExcentions.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIAwwBQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:35:22.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "My.Persistence\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer\\Desktop\\MyWebSite\\MyWebSite\\My.Persistence\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "My.Persistence\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:35:05.848Z",
+              "EditorCaption": ""
             }
           ]
         }

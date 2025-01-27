@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
-using My.Application.Context;
+using My.Persistence.Context;
 using NLog.LayoutRenderers.Wrappers;
 using System.Text;
 

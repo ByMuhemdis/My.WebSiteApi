@@ -10,7 +10,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace My.Application.Context
+namespace My.Persistence.Context
 {
     public class AppDbContext : IdentityDbContext<User>
     {

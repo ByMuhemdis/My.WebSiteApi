@@ -3,18 +3,18 @@ using My.Application.IRepositories.Abouts;
 using My.Application.IRepositories.Contacts;
 using My.Application.IRepositories.Projects;
 using My.Application.IRepositories.Skills;
-using My.Application.Context;
-using My.Application.Repositories.Abouts;
-using My.Application.Repositories.Contacts;
-using My.Application.Repositories.Projects;
-using My.Application.Repositories.Skills;
+using My.Persistence.Context;
+using My.Persistence.Repositories.Abouts;
+using My.Persistence.Repositories.Contacts;
+using My.Persistence.Repositories.Projects;
+using My.Persistence.Repositories.Skills;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace My.Application.Repositories
+namespace My.Persistence.Repositories
 {
     public class RepositoryManager : IRepositoryManager
     {
@@ -38,6 +38,7 @@ namespace My.Application.Repositories
         public RepositoryManager(AppDbContext context)
         {
             _context = context;
+
             _aboutReadRepository = new Lazy<IAboutReadRepository>(() => new AboutReadRepository(_context));
             _aboutWriteRepository = new Lazy<IAboutWriteRepository>(() => new AboutWriteRepository(_context));
             //Contact

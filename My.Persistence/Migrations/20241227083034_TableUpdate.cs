@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace My.Application.Migrations
+namespace My.Persistence.Migrations
 {
     /// <inheritdoc />
     public partial class TableUpdate : Migration
